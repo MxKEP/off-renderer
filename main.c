@@ -1,9 +1,3 @@
-/*
-Michael Polonio
-50:198:456/556
-Assignment 4
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
